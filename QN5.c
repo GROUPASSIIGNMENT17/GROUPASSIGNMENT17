@@ -1,5 +1,6 @@
 #include <stdio.h>
 int main(){
+//Declaration start
 	int i, average, maximum, minimum, s_deviation, sum=0, mean;
       int array[5] = {4, 2, 5, 8, 1};
         //apply for loop
