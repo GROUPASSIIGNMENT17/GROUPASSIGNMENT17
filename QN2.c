@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+//Declaration of function arrays passing pointer value
 int array(int *p,int *q);
 int main(){
 int *p,*q,i;
